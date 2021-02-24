@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-1. ###### Technology Used
+1. ###### [Technology Used](https://github.com/Mohit-S23/StudentLibrary/blob/master/README.md#techonology-used-1)
 
 2. ###### [Functionalities](https://github.com/Mohit-S23/StudentLibrary/blob/master/README.md#functionalities-1)
 
