@@ -92,6 +92,7 @@
 	curl -XPOST "localhost:70/returnBook?cardId=1&bookId=1" -v
 	
 	
-  ## EER Diagram
+## EER Diagram
   
-  
+  ![EER Diagram](https://user-images.githubusercontent.com/47516842/108990331-b1920c80-76bc-11eb-9ad0-b56f093d01b7.png)
+
