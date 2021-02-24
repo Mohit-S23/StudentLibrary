@@ -4,7 +4,7 @@
 
 ###### [Functionalities](https://github.com/Mohit-S23/StudentLibrary/blob/master/README.md#functionalities-1)
 
-###### [Curl Commands](https://github.com/Mohit-S23/StudentLibrary/new/master?readme=1#curl-commands-1)
+###### [Curl Commands](https://github.com/Mohit-S23/StudentLibrary/blob/master/README.md#curl-commands-1)
 
 
 ## Functionalities
