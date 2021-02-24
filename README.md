@@ -2,11 +2,23 @@
 
 ## Table of contents
 
-1. ###### [Functionalities](https://github.com/Mohit-S23/StudentLibrary/blob/master/README.md#functionalities-1)
+1. ###### Technology Used
 
-2. ###### [Curl Commands](https://github.com/Mohit-S23/StudentLibrary/blob/master/README.md#curl-commands-1)
+2. ###### [Functionalities](https://github.com/Mohit-S23/StudentLibrary/blob/master/README.md#functionalities-1)
 
-3. ###### [EER Diagram](https://github.com/Mohit-S23/StudentLibrary/blob/master/README.md#eer-diagram-1)
+3. ###### [Curl Commands](https://github.com/Mohit-S23/StudentLibrary/blob/master/README.md#curl-commands-1)
+
+4. ###### [EER Diagram](https://github.com/Mohit-S23/StudentLibrary/blob/master/README.md#eer-diagram-1)
+
+## Techonology Used
+
+- ###### Java
+
+- ###### Spring Boot
+
+- ###### Hibernate
+
+- ###### RESTful APIS
 
 
 ## Functionalities
