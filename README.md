@@ -6,6 +6,8 @@
 
 ###### [Curl Commands](https://github.com/Mohit-S23/StudentLibrary/blob/master/README.md#curl-commands-1)
 
+###### [EER Diagram](https://github.com/Mohit-S23/StudentLibrary/blob/master/README.md#eer-diagram)
+
 
 ## Functionalities
 
