@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-###### [Functionalities](https://github.com/Mohit-S23/StudentLibrary/new/master?readme=1#functionalities)
+###### [Functionalities](https://github.com/Mohit-S23/StudentLibrary/blob/master/README.md#functionalities-1)
 
 ###### [Curl Commands](https://github.com/Mohit-S23/StudentLibrary/new/master?readme=1#curl-commands-1)
 
